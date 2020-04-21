@@ -1,4 +1,4 @@
-# idle-user2
+# Detecting idle user and redirect to Login page using Vue
 
 ## Project setup
 ```
